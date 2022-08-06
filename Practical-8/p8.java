@@ -1,3 +1,4 @@
+//Constructor chaining
 import java.util.Scanner;
 
 class Student {
