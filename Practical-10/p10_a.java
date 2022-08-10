@@ -1,4 +1,4 @@
-class jagged {
+class jagged1 {
     public static void main(String args[]) {
         int arr[][] = new int[3][];
         int[] a = { 3, 4 };
