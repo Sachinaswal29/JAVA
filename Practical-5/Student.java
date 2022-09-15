@@ -1,3 +1,10 @@
+/* Create a class “Student” having following instance variables and methods.
+Instance variables: ID, Name, Branch and university
+Method: setDetails() and showDetails().
+The setDetails() method sets the values of ID, Name, Branch and University.
+And showDetails() method shows the value of each field.
+Note: use of static keyword. */
+
 import java.util.*;
 
 public class Student {
