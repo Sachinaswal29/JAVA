@@ -1,3 +1,9 @@
+/*Write a Java Program to demonstrate the working of a banking-system  
+Instance variables: name, account_no, amount  
+Instance methods:  deposit(), withdraw(), checkBalance(), insert() and display().
+Here we can deposit and withdraw amount from our account using deposit() and withdraw() methods respectively.
+The insert() method is to initialize state and display() method is to display state values. */
+
 import java.util.Scanner;
 
 class Account{
