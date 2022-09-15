@@ -1,3 +1,11 @@
+/* Create class Employee with following attributes and methods
+ID, name, department and salary.
+The setDetails() method sets the values of ID, name, department and salary.
+And showDetails() method shows the value of each field.
+Note: (i) Values must be entered through Scanner class.
+      (ii) Use proper constructor
+      (iii) Use “this” reference variable to avoid ambiguity.
+*/
 import java.util.Scanner;
 
 class Employee {
