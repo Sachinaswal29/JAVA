@@ -1,4 +1,8 @@
-//Constructor chaining
+/* Create a class “Student” having following instance variables and methods.
+   Instance variables: ID, Name, Branch, city and university. 
+   While creating constructors with one, two, three, four and five arguments reuse the constructors by construction chaining 
+*/
+
 import java.util.Scanner;
 
 class Student {
