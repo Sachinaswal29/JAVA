@@ -1,3 +1,8 @@
+/*
+Create two dimensional integer array and insert and traverse this array.
+Note: Use Scanner class to insert data.
+*/
+
 import java.util.Scanner;
 
 import javax.swing.text.DefaultStyledDocument.ElementSpec;
