@@ -11,7 +11,6 @@ class Bc extends Thread {
         for (int i = 1; i <= 10; i++) {
             System.out.println("From B: " + i);
         }
-
     }
 }
 
