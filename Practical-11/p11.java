@@ -1,3 +1,5 @@
+/* Create a class “Shape” having area() method to calculate area. Overload the area() method for shapes like triangle, rectangle and circle. */
+
 import java.util.Scanner;
  class Shape {
        public static float getArea(int r){
