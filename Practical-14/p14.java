@@ -1,3 +1,5 @@
+// Create LowBalanceException that occurs when user tries to withdraw some amount 	
+
 import java.util.*;
 
 class LowBalanceException extends RuntimeException {
