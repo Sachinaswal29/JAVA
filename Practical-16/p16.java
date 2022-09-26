@@ -1,3 +1,5 @@
+// Write a program that reads from a text file char by char and writes in some another file. Write this program in an efficient way. 
+
 import java.io.*;
 
 class Fr {
