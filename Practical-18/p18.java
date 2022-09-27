@@ -1,3 +1,5 @@
+// Write a program that take your name from keyboard and writes in some text file. 
+
 import java.io.*;
 
 class ISR {
