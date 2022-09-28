@@ -1,3 +1,5 @@
+// Write a multithreaded program where three threads are there and printing the numbers from 1 to 10 concurrently. 
+
 class Ab extends Thread {
     public void run() {
         for (int i = 1; i <= 10; i++) {
