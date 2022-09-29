@@ -1,3 +1,5 @@
+// Write a program to set and get the name of threads also set and get the priority of threads. 
+
 class Ab extends Thread {
     public void run() {
         for (int i = 1; i <= 10; i++) {
