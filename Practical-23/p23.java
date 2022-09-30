@@ -1,3 +1,9 @@
+/*  Write a class Customer having balance as a property and void withdrawal(int amount), and void deposit(int amount) as instance methods. 
+There are two threads, the first thread wants to withdrawal some amount and second thread wants to deposit some amount. Apply inter thread 
+communication where, if withdrawal amount is higher than current balance then first thread will wait for second thread to deposit then resume 
+the withdrawal. 
+*/
+
 class Customer {
     int bal = 1000;
 
