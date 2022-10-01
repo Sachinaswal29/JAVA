@@ -1,3 +1,5 @@
+// Create a canvas having smiley face. 
+
 import javax.swing.*;
 import java.awt.*;
 
