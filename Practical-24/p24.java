@@ -1,3 +1,5 @@
+// Create a GUI for student’s information system. A GUI that asks all the relevant information’s related to a student. 
+
 import java.awt.*;
 import javax.swing.*;
 
