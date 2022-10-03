@@ -1,3 +1,8 @@
+/* Write a JFrame having three textfields. The first two textfields refers to two numbers on which sum or subtraction or multiplication or division 
+will happen. The third textfield will show the result. There are four buttons "Add","Sub","MUL" and "Div". Once user will click on Add or 
+sub or Mul or Div buttons then the corresponding result will be displayed in result field.
+*/
+
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
